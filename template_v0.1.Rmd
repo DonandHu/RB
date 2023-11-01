@@ -1,0 +1,23 @@
+---
+title: "MFIT 5008 Midterm Exam"
+output: html_document
+---
+Name: Jingran Feng
+Student ID: 20922149
+```{r}
+library(tidyverse)
+library(tibble)
+library(knitr)
+library(dplyr)
+
+```
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
